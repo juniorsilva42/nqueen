@@ -1,0 +1,3 @@
+/home/jsilva/Área de Trabalho/ia-solve-problems/tests/CMakeFiles/rebuild_cache.dir
+/home/jsilva/Área de Trabalho/ia-solve-problems/tests/CMakeFiles/runTests.dir
+/home/jsilva/Área de Trabalho/ia-solve-problems/tests/CMakeFiles/edit_cache.dir

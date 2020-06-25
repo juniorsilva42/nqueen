@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jsilva/Área de Trabalho/ia-solve-problems/src/NQueen.cpp
+iostream
+-
+NQueen.hpp
+/home/jsilva/Área de Trabalho/ia-solve-problems/src/NQueen.hpp
+
+/home/jsilva/Área de Trabalho/ia-solve-problems/src/NQueen.hpp
+
+/home/jsilva/Área de Trabalho/ia-solve-problems/tests/nqueen.spec.cpp
+../src/NQueen.cpp
+/home/jsilva/Área de Trabalho/ia-solve-problems/src/NQueen.cpp
+gtest/gtest.h
+-
+
